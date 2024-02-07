@@ -387,7 +387,7 @@ class _ChatScreen extends State<ChatScreen> {
       var headers = {
         'Content-Type': 'application/json',
         'Authorization':
-            'Bearer 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',
+            'Bearer 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',
       };
 
       var apiUrl = Uri.parse('https://api.openai.com/v1/chat/completions');
